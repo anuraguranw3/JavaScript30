@@ -1,2 +1,2 @@
 ## Day 1: Javascript Drum Kit
-It's a drum kit created with JavaScript for **JavaScript30 day 01**.
+It's a drum kit for **JavaScript30 day 01**.
