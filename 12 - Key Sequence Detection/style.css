@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.boyah {
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text {
+    text-align: center;
+    font-size: 5rem;
+    margin-top: 50px;
+}
